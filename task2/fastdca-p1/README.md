@@ -28,3 +28,7 @@ source .venv/bin/activate
 
 # Step 3: Add FastAPI and Uvicorn
 uv add "fastapi[standard]"
+
+Here is the blog link:
+
+"https://medium.com/@ruba.haroon143/build-your-first-fastapi-app-with-uv-the-easy-way-to-say-hello-to-apis-32abfc00da3c"
