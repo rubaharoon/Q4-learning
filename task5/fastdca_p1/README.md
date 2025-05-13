@@ -148,3 +148,7 @@ def get_user(user_name: Annotated[str, Depends(user_dependency)]):
 ✅ Securing endpoints with dependency logic
 ✅ Simulating databases using classes
 ✅ Clean, testable, and DRY FastAPI code
+
+here is the blog link
+
+"https://medium.com/@ruba.haroon143/dependency-injection-in-fastapi-your-apis-secret-superpower-c0f7d23f7b98"
